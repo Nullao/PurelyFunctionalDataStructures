@@ -1,4 +1,3 @@
-
 signature ORDERED =
 sig
     type T
