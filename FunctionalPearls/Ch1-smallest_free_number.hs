@@ -48,3 +48,6 @@ minfrom a (n, xs) | n == 0 = a
 
 minfree' :: [Int] -> Int
 minfree' xs = minfrom 0 (length xs, xs)
+
+
+
