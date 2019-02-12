@@ -1,0 +1,52 @@
+BinomialHeap:
+  [+] tests:
+      [+] check invariants
+  [ ] strict version
+  [ ] check coverage
+
+Ex3.3:
+  [+] tests
+  [ ] benchs
+  [ ] strict version
+  [ ] check coverage
+
+Ex3.4:
+  [+] tests
+      [+] check size == realsize property
+  [ ] benchs
+  [ ] strict version
+  [ ] check coverage
+
+Ex3.5:
+  [+] test
+      [ ] equiv to finMin
+  [ ] benchs
+  [ ] check coverage
+  [ ] try to write CPS style (or at least foldr style)
+
+Ex3.6:
+  [ ] test
+  [ ] bench
+  [ ] converage
+  [ ] strict version
+
+Ex3.7:
+  [ ] test
+  [ ] bench
+  [ ] coverage
+  [ ] strict version
+
+BTree:
+  [ ] tests
+      [ ] invariants
+  [ ] check coverage
+  [ ] strict version
+
+Ex3.10a:
+  [ ] tests
+  [ ] check coverage
+
+Ex3.10b:
+  [ ] tests
+  [ ] check coverage
+

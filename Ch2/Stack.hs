@@ -1,4 +1,4 @@
-{-# LANGUAGE MultiParamTypeClasses, FlexibleInstances, InstanceSigs #-}
+{-# LANGUAGE InstanceSigs #-}
 
 module Stack (Stack(..), List(..)) where
 -- import Prelude hiding (head, tail)
